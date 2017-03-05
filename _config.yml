@@ -9,3 +9,4 @@ github_username:  niegenug
 # Build settings
 markdown: kramdown
 permalink: pretty
+theme: jekyll-theme-slate
