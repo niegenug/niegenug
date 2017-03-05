@@ -5,8 +5,8 @@
     <description>Still unsure what to do with this, wether a personal projects tracker or humoral posting. Personal improvements as usual, checking features first.</description>
     <link>http://without_domain.com/</link>
     <atom:link href="http://without_domain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 05 Mar 2017 06:07:13 +0100</pubDate>
-    <lastBuildDate>Sun, 05 Mar 2017 06:07:13 +0100</lastBuildDate>
+    <pubDate>Sun, 05 Mar 2017 06:26:15 +0100</pubDate>
+    <lastBuildDate>Sun, 05 Mar 2017 06:26:15 +0100</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -33,6 +33,17 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Wow</title>
+        <description>&lt;p&gt;This looks awesome, love to edit files directly that way. Not sure how hard will it be to have something good. Let’s post this to see the results.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 Mar 2017 00:00:00 +0100</pubDate>
+        <link>http://without_domain.com/2017/03/05/wow/</link>
+        <guid isPermaLink="true">http://without_domain.com/2017/03/05/wow/</guid>
+        
         
       </item>
     
