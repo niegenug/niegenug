@@ -1,0 +1,11 @@
+# Site settings
+title: doing Stuffs
+email: email_not_published
+description: "Still unsure what to do with this, wether a personal projects tracker or humoral posting. Personal improvements as usual, checking features first."
+baseurl: ""
+url: "http://without_domain.com"
+github_username:  niegenug
+
+# Build settings
+markdown: kramdown
+permalink: pretty
